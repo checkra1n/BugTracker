@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Use this template to file bug reports
+about: For bug reports, crashes, errors, unsupported versions, etc.
 title: ''
 labels: ''
 assignees: ''
