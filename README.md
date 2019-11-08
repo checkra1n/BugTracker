@@ -1,6 +1,6 @@
 # ⚠️ Looking for a download? ⚠️
 
-### \[ [Download checkra1n here](https://checkra1n.com) \]
+### \[ [Download checkra1n here](https://checkra.in) \]
 
 # 🐞 BugTracker 🐞
 
