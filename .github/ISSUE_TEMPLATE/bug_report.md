@@ -10,6 +10,8 @@ assignees: ''
 **What device + iOS version are you on?**
 
 
+**What checkra1n version are you using?**
+
 **What are the steps to reproduce the issue?**
 1.
 2.
