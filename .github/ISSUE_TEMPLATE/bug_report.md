@@ -10,7 +10,7 @@ assignees: ''
 **Tell us about your setup:**
 1. What iDevice are you using?
 2. On what version of iOS is it?
-3. What version of checkra1n are you using? GUI or CLI?
+3. What version of checkra1n are you using, and GUI or CLI?
 4. What is your host system (OS version? Hackintosh? VM? etc.)?
 5. How are you connecting to the device (USB-A? USB-C? Apple/3rd party cable? Through a USB hub?)?
 
