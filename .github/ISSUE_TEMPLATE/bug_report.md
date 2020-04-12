@@ -23,7 +23,7 @@ assignees: ''
 **What do you expect, and what is happening instead?**
 
 
-**Does the issue also occur if you enable Safe Mode?**
+**Does the issue also occur if you tick "Safe Mode" in the checkra1n options?**
 
 
 **Any other info, error logs, screenshots, ...?**
