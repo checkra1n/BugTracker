@@ -1,16 +1,2 @@
----
-name: Free form
-about: For everything that is NOT a bug report.
-title: ''
-labels: ''
-assignees: ''
-
----
-
-<!--
-
-DO NOT USE THIS TEMPLATE FOR BUG REPORTS!
-
-IF YOU DO, THEY WILL BE CLOSED AND MARKED AS INVALID!
-
--->
+## Ability to download older versions of Checkra1n?
+It would be very nice to have the ability to download older verions of Checkra1n in case newer versions happen to not work so well. For me, version 0.10.2 does not work 99% of the time. It gets stuck between steps and does not progress. No help has come from research or asking for help. No, I'm not reporting a bug. I'm asking for the ability for us to get older versions and not be forced to use the newest. I was successful with version 0.9.x.x but I am unable to get it as it's no longer available. 
