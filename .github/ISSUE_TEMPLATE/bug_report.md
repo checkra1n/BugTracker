@@ -23,6 +23,9 @@ assignees: ''
 **What do you expect, and what is happening instead?**
 
 
+**Did you see a popup on the device stating it entered "Safe Mode" due to an error?**
+
+
 **Does the issue also occur if you tick "Safe Mode" in the checkra1n options?**
 
 
